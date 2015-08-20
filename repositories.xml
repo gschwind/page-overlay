@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<repositories version="1.0">
+<repo priority="50" quality="stable" status="unofficial">
+<name>page</name>
+<description>page window manager overlay</description>
+<homepage>http://www.hzog.net/index.php/Main_Page</homepage>
+<owner><email>gschwind@gnu-log.net</email></owner>
+<source type="git">https://github.com/gschwind/page-overlay.git</source>
+</repo>
+</repositories>

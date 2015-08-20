@@ -1,0 +1,19 @@
+
+The page window manager is a tiling window manager that like your mouse.
+
+To use this overlay you have to install layman:
+
+ # emerge layman
+
+add this unofficial overlay :
+
+ # layman -o https://raw.github.com/gschwind/page-overlay/master/repositories.xml -f -a page
+
+and finaly emerge page :
+
+ # emerge page
+
+You can find the page documentation to:
+
+http://www.hzog.net/index.php/Main_Page
+
