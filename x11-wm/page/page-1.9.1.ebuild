@@ -10,7 +10,7 @@ SRC_URI="http://www.hzog.net/pub/${P}.tar.gz"
 
 LICENSE="GPLv3"
 SLOT="0"
-KEYWORDS="amd64 x86"
+KEYWORDS="~amd64 ~x86"
 
 DEPEND="x11-proto/xcb-proto
 	x11-libs/libxcb
